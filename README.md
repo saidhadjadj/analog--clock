@@ -1,28 +1,47 @@
-# Analog Clock
+# 🕰️ Analog Clock
 
-A beautiful, responsive analog clock built with HTML, CSS, and JavaScript.  
-Displays current time with smoothly moving hour, minute, and second hands.
+A clean and minimal analog clock built with HTML, CSS, and JavaScript.
 
-🔗 **Live demo:** [https://analog-clock-chi-eight.vercel.app](https://analog-clock-chi-eight.vercel.app)
+---
+
+## 🔗 Live Demo
+https://analog-clock.vercel.app
+
+## 📂 GitHub Repository
+https://github.com/saidhadjadj/analog-clock
+
+---
+
+## 🌍 Overview
+This project is a real-time analog clock that visually represents hours, minutes, and seconds using smooth CSS transformations and JavaScript updates.
+
+---
 
 ## ✨ Features
+- 🕰️ Real-time analog clock
+- 🎯 Smooth rotating hands
+- 📱 Fully responsive design
+- 🎨 Minimal clean UI
+- ⚡ Lightweight JavaScript logic
 
-- 🕰️ Real‑time analog display
-- 🗓️ Current date shown below
-- 📱 Fully responsive
-- 🎨 Clean, modern design
+---
 
-## 🛠️ Built with
+## 📸 Preview
+![Preview](./assets/preview.png)
 
+---
+
+## 🛠️ Tech Stack
 - HTML5
-- CSS3 (Flexbox, transforms)
+- CSS3 (transforms, animations)
 - JavaScript (ES6)
 
-## 🚀 Getting started
+---
 
-```bash
-git clone https://github.com/saidhadjadj/analog--clock.git
-cd analog--clock
-open index.html
+## 🎯 Purpose
+This project helps practice DOM manipulation, time-based updates, and CSS rotation transformations.
 
+---
 
+## 👤 Author
+Said Hadjadj
